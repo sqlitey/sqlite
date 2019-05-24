@@ -125,4 +125,4 @@ $WanSpeed = $UnsortedResults[3].speed
 
 
 
-Write-Output "Speed is $($Wanspeed) Mbit/Sec^" 
+Write-Output "^Speed is $($Wanspeed) Mbit/Sec^" 
